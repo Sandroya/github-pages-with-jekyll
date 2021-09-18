@@ -1,5 +1,4 @@
 ---
 title: "Welcome to my blog"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Thank you for coming to Hubei Jixiu official blog...
